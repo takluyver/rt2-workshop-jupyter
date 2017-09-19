@@ -1,0 +1,13 @@
+((*- extends 'article.tplx' -*))
+
+((* block title *))
+\title{Jupyter Demo}
+((* endblock title *)) 
+
+((* block bibliography *))
+
+\bibliographystyle{unsrt}
+
+\bibliography{citns}
+
+((* endblock bibliography *))
